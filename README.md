@@ -20,3 +20,12 @@ APIs are leveraged in Data Science for:
 
 I use a Public API (OpenWeatherMap) to fetch weather data for Nairobi city. After featching the data I perform a simple data manipulation using the Pandas library. 
 
+## Function
+
+Enter you API key generated from https://openweathermap.org/
+
+Replace `city_name` with your desired city name
+
+Replace the city's respective `country_code`
+
+Execute
